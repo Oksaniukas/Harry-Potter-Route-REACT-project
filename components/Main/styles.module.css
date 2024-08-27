@@ -1,0 +1,8 @@
+.main{
+   background-color: rgb(183, 183, 232);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 2rem;
+   min-height: 100vh;
+}

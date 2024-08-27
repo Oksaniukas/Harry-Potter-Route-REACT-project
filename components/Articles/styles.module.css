@@ -1,0 +1,6 @@
+.main {
+  display: flex;
+  gap: 3rem;
+  background-color: #ec7373;
+  padding: 1rem;
+}
